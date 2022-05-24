@@ -1,4 +1,4 @@
-# ExercicioIoT
+# ExercícioIOT Semana3
 Para atividade da aula de Programação da IOT
 Proposta de sistema de obstáculos para pessoas com pouca visibilidade ou deficientes visuais.
 Esta proposta busca sensores e atuadores para auxiliar uma pessoa que irá passar um final de semana em uma pousada ou hotel, pois normalmente na sua residência ele conhece onde estão os objetos.  Os seguintes sensores serão utilizados:
